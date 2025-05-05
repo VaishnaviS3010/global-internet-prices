@@ -15,7 +15,7 @@ An interactive look at global internet pricing trends. Explore how internet cost
 
 ## 📚 Data Sources
 
-- [ITU Statistics](https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx)
+- [Worldwide Internet Prices via Kaggle](https://www.kaggle.com/code/meirnizri/worldwide-internet-prices)
 - [OECD Broadband Statistics](https://www.oecd.org/sti/broadband/)
 - [National Regulatory Authorities](https://www.ictregulationtoolkit.org/)
 
